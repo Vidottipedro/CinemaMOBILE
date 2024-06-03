@@ -21,9 +21,10 @@
     </ContentPage.Resources>
 
     <ContentPage.Content>
-        <Grid RowDefinitions="*,*,*,*,*,*,*,*"
-              ColumnDefinitions="*,*"
-              RowSpacing="0.1" ColumnSpacing="0">
+        <Grid ColumnDefinitions="*,*"
+              RowDefinitions="*,*,*,*,*,*" 
+              RowSpacing="1 " ColumnSpacing="1"
+             >
 
             <Button Grid.Row="0" Grid.Column="0"
                 Style="{StaticResource Btncommon}"
