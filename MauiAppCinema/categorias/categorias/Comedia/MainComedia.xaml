@@ -32,13 +32,13 @@
                 <ImageButton Grid.Row="1" Grid.Column="0"
         Style="{StaticResource iBtncommon}"
         x:Name="filme1c"  Clicked="filme1c_Clicked"
-        Source="norbit.jpg"
+        Source="Norbit.jpg"
         Aspect="AspectFill"
         />
                 <ImageButton Grid.Row="1" Grid.Column="1"
         Style="{StaticResource iBtncommon}"
         x:Name="filme2c"  Clicked="filme2c_Clicked"
-        Source="vovozona.jpg"   
+        Source="museu.jpg"   
         Aspect="AspectFill"/>
 
                 <ImageButton Grid.Row="2" Grid.Column="0"
@@ -50,7 +50,7 @@
                 <ImageButton Grid.Row="2" Grid.Column="1"
         Style="{StaticResource iBtncommon}"
         x:Name="filme4c" Clicked="filme4c_Clicked"
-        Source="gentedois.jpg"
+        Source="gentegrande1.jpg"
         Aspect="AspectFill"/>
 
             </Grid>
