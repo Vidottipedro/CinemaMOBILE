@@ -32,25 +32,25 @@
                 <ImageButton Grid.Row="1" Grid.Column="0"
                             Style="{StaticResource iBtncommon}"
                             x:Name="filme1g"  Clicked="filme1g_Clicked"
-                            Source="paremoataque.jpg"
+                            Source="resgate.jpg"
                             Aspect="AspectFill"
       />
                 <ImageButton Grid.Row="1" Grid.Column="1"
                              Style="{StaticResource iBtncommon}"
                             x:Name="filme2g"  Clicked="filme2g_Clicked"
-                            Source="guerra.png"   
+                            Source="fury.jpg"   
                             Aspect="AspectFill"/>
 
                 <ImageButton Grid.Row="2" Grid.Column="0"
                              Style="{StaticResource iBtncommon}"
                              x:Name="filme3g"  Clicked="filme3g_Clicked"
-                             Source="guerra.png"
+                             Source="front.jpg"
                              Aspect="AspectFill"/>
 
                 <ImageButton Grid.Row="2" Grid.Column="1"
                              Style="{StaticResource iBtncommon}"
                              x:Name="filme4g" Clicked="filme4g_Clicked"
-                             Source="guerra.png"
+                             Source="guerra.jpg"
                              Aspect="AspectFill"/>
 
             </Grid>
